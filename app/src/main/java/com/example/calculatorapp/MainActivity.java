@@ -1,4 +1,4 @@
-package com.example.viewapp;
+package com.example.calculatorapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
